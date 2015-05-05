@@ -1,0 +1,13 @@
+//
+//  Beta.xcconfig
+//
+//  Created by Dal Rupnik on 21/10/14.
+//  Copyright (c) 2014 arvystate.net. All rights reserved.
+//
+
+#include "../Global/Environment.xcconfig"
+
+BUNDLE_IDENTIFIER = com.yourcompany.yourapp-beta;
+BUNDLE_DISPLAY_NAME = YourApp-Beta;
+
+KZBEnv = '@"Beta"';

@@ -1,0 +1,8 @@
+//
+//  Warning.xcconfig
+//
+//  Created by Dal Rupnik on 28/10/14.
+//  Copyright (c) 2014 arvystate.net. All rights reserved.
+//
+
+WARNING_CFLAGS = -Weverything -Wno-objc-missing-property-synthesis -Wno-unused-macros -Wno-disabled-macro-expansion -Wno-gnu-statement-expression -Wno-language-extension-token -Wno-overriding-method-mismatch;

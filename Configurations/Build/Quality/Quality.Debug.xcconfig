@@ -1,0 +1,9 @@
+//
+//  Quality.Debug.xcconfig
+//
+//  Created by Dal Rupnik on 20/10/14.
+//  Copyright (c) 2014 arvystate.net. All rights reserved.
+//
+
+#include "../Debug/Development.Debug.xcconfig"
+#include "../../Global/Shared.Quality.xcconfig"

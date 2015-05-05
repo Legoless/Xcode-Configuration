@@ -1,0 +1,8 @@
+//
+//  Project.xcconfig
+//
+//  Created by Dal Rupnik on 28/10/14.
+//  Copyright (c) 2014 arvystate.net. All rights reserved.
+//
+
+GCC_PREFIX_HEADER = Your/Prefix/Location;

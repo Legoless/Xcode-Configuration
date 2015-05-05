@@ -1,0 +1,17 @@
+//
+//  Development.Debug.xcconfig
+//
+//  Created by Dal Rupnik on 15/10/14.
+//  Copyright (c) 2014 arvystate.net. All rights reserved.
+//
+
+#include "../../../../../../xcconfigs/Base/Configurations/Debug.xcconfig"
+#include "../../../../../../xcconfigs/iOS/iOS-Application.xcconfig"
+
+#include "Pods/Target Support Files/Pods/Pods.debug.xcconfig"
+
+#include "../../Environment/Development.xcconfig"
+
+#include "../../Global/Shared.Debug.xcconfig"
+
+#include "../../Global/Warning.xcconfig"

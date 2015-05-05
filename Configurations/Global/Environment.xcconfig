@@ -1,0 +1,11 @@
+//
+//  Environment.xcconfig
+//
+//  Created by Dal Rupnik on 15/10/14.
+//  Copyright (c) 2014 arvystate.net. All rights reserved.
+//
+
+#include "Project.xcconfig"
+
+PRODUCT_NAME = $(TARGET_NAME);
+GCC_PREPROCESSOR_DEFINITIONS = $(value) KZBDefaultEnv=${KZBEnv};
